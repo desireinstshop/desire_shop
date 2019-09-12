@@ -1,0 +1,2 @@
+﻿User-agent: *
+Sitemap: https://desireinstshop.github.io/desire_shop/sitemap.xml
